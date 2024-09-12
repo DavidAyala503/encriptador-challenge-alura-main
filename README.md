@@ -17,11 +17,11 @@ El Encriptador de Texto permite a los usuarios encriptar y desencriptar mensajes
 
 1. **Clona el repositorio**:
     ```bash
-    git clone https://github.com/tu_usuario/encriptador.git
+    git clone https://github.com/DavidAyala503/encriptador-challenge-alura-main.git
     ```
 2. **Navega al directorio del proyecto**:
     ```bash
-    cd Encriptador-Challenge-Alura
+    cd encriptador-challenge-alura-main
     ```
 3. **Abre el archivo index.html en tu navegador para ver la aplicación en acción**.
 
